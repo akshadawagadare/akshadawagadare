@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshada Wagadare
 
-<!--
-**akshadawagadare/akshadawagadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | React & Node.js Enthusiast  
+🌱 Currently learning Full Stack Development  
+🚀 I love building real-world projects that solve problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript  
+- React.js  
+- Node.js  
+- GitHub API  
+- MongoDB (learning)
+
+---
+
+## 📌 Projects
+- 🚀 GitHub Profile Analyzer (Web App)
+- 🚌 AI Study Assistant (Full Stack Project)
+- 💡 More exciting projects coming soon...
+
+---
+
+## 📊 Current Focus
+- Improving Full Stack Development skills  
+- Building deployment-ready projects  
+- Learning Data Structures & Algorithms  
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/akshadawagadare  
+- 🧑‍💻 GitHub: https://github.com/akshadawagadare  
+- 📧 Email: akshadawagadare7@gmail.com  
+
+---
+
+⭐ “Learning by building real projects every day”
