@@ -1,39 +1,41 @@
 # 👋 Hi, I'm Akshada Wagadare
 
-💻 Web Developer | React & Node.js Enthusiast  
-🌱 Currently learning Full Stack Development  
-🚀 I love building real-world projects that solve problems  
+💻 Full Stack Developer | React & Node.js  
+🌱 Currently learning Full Stack Development & DSA  
+🚀 I love building real-world projects that solve real problems
 
 ---
 
 ## 🛠 Tech Stack
-- HTML, CSS, JavaScript  
-- React.js  
-- Node.js  
-- GitHub API  
-- MongoDB (learning)
+
+- **Frontend**: React.js, TypeScript, Tailwind CSS, Vite
+- **Backend**: Node.js, Express.js, REST APIs
+- **Database**: MongoDB
+- **AI/APIs**: Google Gemini API, GitHub REST API
+- **Tools**: Git, GitHub, Postman, Render, Vercel
 
 ---
 
 ## 📌 Projects
-- 🚀 GitHub Profile Analyzer (Web App)
-- 🚌 AI Study Assistant (Full Stack Project)
-- 💡 More exciting projects coming soon...
+
+- 🤖 [AI Study Assistant](https://ai-study-assistant-theta-one.vercel.app) — Upload PDFs and ask AI questions about them
+- 🔍 [GitHub Profile Analyzer](https://github-profile-analyzer-rose.vercel.app) — Analyze any GitHub profile with live stats
 
 ---
 
 ## 📊 Current Focus
-- Improving Full Stack Development skills  
-- Building deployment-ready projects  
-- Learning Data Structures & Algorithms  
+
+- Building deployment-ready full stack projects
+- Learning Data Structures & Algorithms
+- Exploring AI integrations in web apps
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/akshadawagadare  
-- 🧑‍💻 GitHub: https://github.com/akshadawagadare  
-- 📧 Email: akshadawagadare7@gmail.com  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/akshadawagadare
+- 📧 Email: akshadawagadare7@gmail.com
 
 ---
 
-⭐ “Learning by building real projects every day”
+⭐ "Learning by building real projects every day"
