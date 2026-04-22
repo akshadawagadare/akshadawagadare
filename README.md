@@ -10,7 +10,7 @@
 
 - **Frontend**: React.js, TypeScript, Tailwind CSS, Vite
 - **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB
+- **Database**: MongoDB,MYSQL
 - **AI/APIs**: Google Gemini API, GitHub REST API
 - **Tools**: Git, GitHub, Postman, Render, Vercel
 
