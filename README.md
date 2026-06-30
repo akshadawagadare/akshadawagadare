@@ -1,42 +1,28 @@
-# 👋 Hi, I'm Akshada Wagadare
+# Akshada Wagadare
 
-💻 Full Stack Developer | React & Node.js
-🚀 I love building real-world projects that solve real problems
-🎯 Currently building Full Stack projects & learning DSA
+**Full Stack Developer** — React, Node.js, and the DevOps tools that ship them
 
----
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Docker` `GitHub Actions` `Linux`
 
-## 🛠 Tech Stack
+<br>
 
-- **Frontend**: React.js, TypeScript, Tailwind CSS, Vite
-- **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **AI/APIs**: Google Gemini API, GitHub REST API
-- **Tools**: Git, GitHub, Postman, Render, Vercel
+## 🚀 Projects
 
----
+### [AI Study Assistant](https://ai-study-assistant-theta-one.vercel.app)
+PDF-based AI assistant powered by Gemini API. Containerized with Docker (multi-stage builds), automated via a GitHub Actions CI/CD pipeline that builds on every push.
 
-## 📌 Projects
+### [Snaplink](https://snaplink-beta.vercel.app/)
+Full stack URL shortener with click tracking and an analytics dashboard.
 
-- 🤖 [AI Study Assistant](https://ai-study-assistant-theta-one.vercel.app) — Upload PDFs and ask AI questions about them
-- 🔍 [GitHub Profile Analyzer](https://github-profile-analyzer-rose.vercel.app) — Analyze any GitHub profile with live stats
-- 🔗 URL Shortener — Full Stack URL shortener with analytics (Coming soon)
+### [GitHub Profile Analyzer](https://github-profile-analyzer-rose.vercel.app)
+Real-time GitHub insights using the GitHub REST API.
 
----
+<br>
 
-## 📊 Current Focus
+## 🎯 Currently Building
+Deployment-ready full stack apps with proper Docker + CI/CD workflows, while strengthening DSA fundamentals.
 
-- Building deployment-ready full stack projects
-- Learning Data Structures & Algorithms
-- Exploring AI integrations in web apps
+<br>
 
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/akshadawagadare
-- 📧 Email: akshadawagadare7@gmail.com
-
----
-
-⭐ "Learning by building real projects every day"
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/akshadawagadare) · [Email](mailto:akshadawagadare7@gmail.com)
